@@ -16,6 +16,3 @@ A simple Python project that generates a strong random password using letters, n
 - Python 3  
 - Built-in modules: `random`, `string`  
 
----
-
-## 📂 Project Structure
